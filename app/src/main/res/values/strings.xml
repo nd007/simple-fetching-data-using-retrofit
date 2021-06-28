@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMachineTest</string>
+
+    <string name="forgotPassword"><a href="https://petofyapi.azurewebsites.net/" target="_top">Forgot Password</a></string>
+
+    <string name="register"><a href="https://petofyapi.azurewebsites.net/">Register Now </a></string>
+</resources>
